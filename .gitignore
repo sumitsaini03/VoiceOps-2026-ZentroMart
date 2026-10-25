@@ -8,3 +8,4 @@ venv/
 .DS_Store
 tools/tickets_created.csv
 data/
+*.zip
