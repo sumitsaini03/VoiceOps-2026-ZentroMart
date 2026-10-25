@@ -60,7 +60,7 @@ Built strictly following modular design principles with no bloated agent framewo
 
 ### 2. Clone Repository & Install Dependencies
 ```bash
-git clone <YOUR_PUBLIC_REPO_URL>
+git clone https://github.com/sumitsaini03/VoiceOps-2026-ZentroMart.git
 cd VoiceOps-2026-ZentroMart
 pip install -r requirements.txt
 ```
